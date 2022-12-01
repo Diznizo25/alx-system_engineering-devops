@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R julien:julien hello
+chmod  julien: julien hello
