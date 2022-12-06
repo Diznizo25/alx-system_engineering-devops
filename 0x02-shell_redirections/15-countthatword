@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/bash 
 egrape -C "bin" /etc/passwd
