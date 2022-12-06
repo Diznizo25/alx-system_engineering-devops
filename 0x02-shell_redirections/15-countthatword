@@ -1,2 +1,4 @@
 #!/bin/bash 
-egrape -C "bin" /etc/passwd
+egrape "bin" /etc/passwd | wc -l  
+
+
